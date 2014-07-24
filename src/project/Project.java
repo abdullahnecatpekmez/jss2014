@@ -19,6 +19,7 @@ public class Project {
         // TODO code application logic here
         System.out.println("hello");
         System.out.println("deney");
+        System.out.println("olacak :)");
     }
     
 }
