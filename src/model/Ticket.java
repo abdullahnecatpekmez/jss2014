@@ -4,21 +4,14 @@
  * and open the template in the editor.
  */
 
-package project;
+package model;
 
 /**
  *
  * @author abdullah
  */
-public class Project {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-      
-    
-    }
+public class Ticket {
+    private int row;
+    private int col;
     
 }
