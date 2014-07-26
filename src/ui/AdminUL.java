@@ -10,7 +10,7 @@ package ui;
  *
  * @author abdullah
  */
-import cinema.AbstractUL;
+import ui.AbstractUL;
 import cinema.Theater;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -64,6 +64,7 @@ public class AdminUL extends AbstractUL{
 		System.out.println("q. Quit");
 	}
 
+  
   
     
 }
